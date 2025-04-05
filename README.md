@@ -28,5 +28,5 @@ who joined in 2020 or after…"
 
 13	Complex formula: Female employees with Monday start		
 
-14	Complex formula: Department report of headcounts, salaries and % diff from overall average		UNIQUE, SUMIFS, COUNTIFS, #, CONDITIONAL FORMATTING
+14	Complex formula: Department report of headcounts, salaries and % diff from overall average		(UNIQUE, SUMIFS, COUNTIFS, #, CONDITIONAL FORMATTING)
 
